@@ -6,6 +6,10 @@ Simple Time Trackerは、シンプルで使いやすい勤怠管理・時間追�
 
 完全にローカルで動作するため、データの安全性が保たれ、インターネット接続なしでも使用できます。
 
+<p>
+   <img src="https://github.com/user-attachments/assets/ac542b91-e728-4a9b-90f7-f064946663cb" width="40%">
+   <img src="https://github.com/user-attachments/assets/64c0993f-c726-449a-a299-85e23cfc6d67" width="40%">
+</p>
 
 ## 主な機能
 
