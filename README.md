@@ -56,7 +56,7 @@ Simple Time Trackerは、シンプルで使いやすい勤怠管理・時間追�
 
 1. **リポジトリのクローン**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tama-mochi/Simple-Time-Tracker.git
    cd simple-time-tracker
    ```
 
