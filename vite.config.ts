@@ -6,6 +6,7 @@ import electron from 'vite-plugin-electron/simple'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/simple-time-tracker/',
   plugins: [
     react(),
     electron({
