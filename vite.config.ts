@@ -23,7 +23,7 @@ export default defineConfig({
   ],
   // レンダラープロセス用の設定
   build: {
-    outDir: 'dist',
+    outDir: 'docs',
   },
   // resolveエイリアスの設定はそのまま残します
   resolve: {
