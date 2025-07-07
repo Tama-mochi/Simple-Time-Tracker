@@ -6,7 +6,6 @@ import electron from 'vite-plugin-electron/simple'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/simple-time-tracker/',
   plugins: [
     react(),
     electron({
@@ -23,7 +22,7 @@ export default defineConfig({
   ],
   // レンダラープロセス用の設定
   build: {
-    outDir: 'docs',
+    outDir: 'dist',
   },
   // resolveエイリアスの設定はそのまま残します
   resolve: {
